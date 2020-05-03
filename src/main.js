@@ -1,7 +1,6 @@
 /* eslint-disable func-names */
 /* eslint-disable consistent-return */
 /* eslint-disable no-return-assign */
-import './style.css';
 
 function Character(name, type) {
   this.name = name;
